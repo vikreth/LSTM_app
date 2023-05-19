@@ -5,6 +5,7 @@ from sklearn.preprocessing import MinMaxScaler
 from keras.models import load_model
 import keras.backend as K
 import streamlit as st
+import pipreqs
 
 # Load the data
 df = pd.read_csv('data.csv')
