@@ -1,12 +1,18 @@
 keras==2.9.0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> bb98011eae253366d841e953e59e9ef29fc2b0b3
 matplotlib==3.5.2
 numpy==1.23.5
 pandas==1.4.2
 pipreqs==0.4.13
 scikit_learn==1.1.1
 streamlit==1.20.0
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> bb98011eae253366d841e953e59e9ef29fc2b0b3
 h5py==3.1.0
 streamlit==1.20.0
 pandas==1.4.2
